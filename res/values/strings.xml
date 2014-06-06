@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_settings">Settings</string>
+    <string name="app_name">PianoTouchSample</string>
+    <string name="autoplay_btn">自動曲再生</string>
+
+
+</resources>
